@@ -1,4 +1,4 @@
-# CricketFantasyLeague
+# Cricket Fantasy League
 
 ## Requirements
 
